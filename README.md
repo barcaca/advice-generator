@@ -1,4 +1,4 @@
-# {Name}
+# Advice Generator
 
 ## Índice
 
@@ -15,12 +15,11 @@
 
 ### ✨ **Resumo**
 
-Este projeto é uma solução para o desafio [Todo App no Frontend Mentor](https://www.frontendmentor.io/challenges/todo-app-Su1_KokOW). O projeto apresenta um aplicativo de lista de tarefas simples, permitindo a adição, remoção e conclusão de tarefas.
+Este projeto é uma solução para o desafio [Advice Generator no Frontend Mentor](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db). Este projeto consiste em um aplicativo gerador de conselhos, onde os usuários podem receber conselhos aleatórios.
 
 ### 🖼️ Screenshot
 
 ![Screenshot do Projeto](/public//screenshot.png)
-![Screenshot do Projeto](/public//screenshot2.png)
 
 ### 🛠️ **Tecnologias**
 
@@ -37,7 +36,6 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
   - [Prettier](https://prettier.io/)
   - [Next-theme](https://next-theme.org/)
   - [Framer](https://www.framer.com)
-  - [React Hot Toast](https://react-hot-toast.com)
 
 ### 🏗️ **Arquitetura**
 
@@ -45,7 +43,7 @@ O projeto segue a arquitetura de componentes de React. Os componentes são organ
 
 ## 🔗 Links
 
-- Solution URL: [Calculator App/Frontier Mentor](https://www.frontendmentor.io/solutions/todo-appnextjs-tailwind-css-rnwcrxVt2H)
+- Solution URL: [Advice Generator/Frontier Mentor](https://www.frontendmentor.io/solutions/todo-appnextjs-tailwind-css-rnwcrxVt2H)
 - Live Site URL: [Vercel App](https://todo-app-list-seven.vercel.app)
 
 ### 🏆 **Conclusão**
@@ -54,12 +52,10 @@ Este projeto foi uma oportunidade de praticar as minhas habilidades de desenvolv
 
 ### 💡 **Sugestões**
 
-- Filtragem por data: Os usuários devem poder ver suas tarefas por data, por exemplo, para ver as tarefas do dia, da semana ou do mês.
-- Prioridades: Os usuários devem poder priorizar suas tarefas, por exemplo, para identificar as tarefas mais importantes.
-- Notificações: Os usuários devem receber notificações para lembretes de tarefas ou prazos.
-- Categorias ou tags: Os usuários devem poder organizar suas tarefas por categorias ou tags, para facilitar a busca e a filtragem.
-- Melhorias nas operações de tarefas: Os usuários devem poder editar ou duplicar tarefas existentes.
-- Undo/Redo: Os usuários devem poder desfazer ou refazer alterações acidentais.
+- Personalização por Temas: Permite que os usuários personalizem a aparência do aplicativo, escolhendo entre diferentes temas.
+- Compartilhamento de Conselhos: Permite que os usuários compartilhem conselhos em suas redes sociais.
+- Favoritos: Permite que os usuários marquem conselhos como favoritos para facilitar o acesso.
+- Comentários e Reações: Permite que os usuários compartilhem feedback ou expressem suas reações aos conselhos recebidos.
 
 ### 📚 **Recursos úteis**
 

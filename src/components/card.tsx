@@ -43,7 +43,7 @@ export default function Card() {
         <PatternDividerDesktop />
       </div>
       <button
-        className="hover: hover:shadow-3xl absolute -bottom-5 left-1/2 mx-auto flex -translate-x-1/2 items-center justify-center rounded-full bg-[#52FFA8] p-2 shadow-md hover:bg-[#00cc66] hover:shadow-[#00ff80]"
+        className="hover:shadow-3xl absolute -bottom-5 left-1/2 mx-auto flex -translate-x-1/2 items-center justify-center rounded-full bg-[#52FFA8] p-2 shadow-md hover:bg-[#00cc66] hover:shadow-[#00ff80]"
         type="button"
         onClick={handleClick}
       >
