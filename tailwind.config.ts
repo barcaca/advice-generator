@@ -7,9 +7,6 @@ const config: Config = {
       fontFamily: {
         sans: 'var(--font-manrope)',
       },
-      boxShadow: {
-        '3xl': '0px 0px 20px 2px rgba(0,0,0,0.55)',
-      },
     },
   },
   plugins: [],
