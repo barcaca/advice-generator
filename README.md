@@ -44,7 +44,7 @@ O projeto segue a arquitetura de componentes de React. Os componentes são organ
 ## 🔗 Links
 
 - Solution URL: [Advice Generator/Frontier Mentor](https://www.frontendmentor.io/solutions/todo-appnextjs-tailwind-css-rnwcrxVt2H)
-- Live Site URL: [Vercel App](https://todo-app-list-seven.vercel.app)
+- Live Site URL: [Vercel App](https://advice-generator-i32l9vop7-barcacas-projects.vercel.app)
 
 ### 🏆 **Conclusão**
 
