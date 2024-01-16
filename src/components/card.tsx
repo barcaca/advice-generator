@@ -29,10 +29,7 @@ export default function Card() {
         setRandomAdvice(dataAdvice)
         setIsLoading(false)
       }, 1000)
-      // Marque como não carregando após receber os dados
-    } catch (error) {
-      // Handle errors
-    }
+    } catch (error) {}
   }
   useEffect(() => {
     fetchRandomAdvice()

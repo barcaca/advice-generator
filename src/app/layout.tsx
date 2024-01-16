@@ -12,18 +12,24 @@ const manrope = Manrope({
 
 export const metadata: Metadata = {
   authors: [{ name: 'Luan Barcaça', url: '' }],
-  category: 'design',
+  category: 'advice',
   creator: 'Luan Barcaça',
-  title: 'Title',
-  description: 'Description',
+  title: 'Random Advice Generator',
+  description:
+    'Get personalized, thought-provoking advice at the click of a button.',
   keywords: [
+    'advice',
+    'inspiration',
+    'motivation',
+    'decision-making',
+    'problem-solving',
+    'self-improvement',
+    'life-hacks',
+    'randomizer',
+    'generator',
     'Next.js',
     'React',
     'TypeScript',
-    'TailwindCSS',
-    'Design',
-    'Frontend',
-    'Developer',
   ],
 }
 
